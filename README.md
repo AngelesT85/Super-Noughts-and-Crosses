@@ -1,2 +1,2 @@
 # Super-Noughts-and-Crosses
-a
+This is game "Noughts and Crosses" made in Python using pygame library
